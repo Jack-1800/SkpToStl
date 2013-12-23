@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1387648646 source:c:\users\mt\desktop\skptostl\main.cpp
+	"slapi.h"
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1386729413 c:\users\mt\desktop\skptostl\slapi.h
+	<slapi/slapi.h>
+	<slapi/geometry.h>
+	<slapi/initialize.h>
+	<slapi/unicodestring.h>
+	<slapi/model/model.h>
+	<slapi/model/entities.h>
+	<slapi/model/face.h>
+	<slapi/model/edge.h>
+	<slapi/model/vertex.h>
+	<slapi/model/group.h>
+	<slapi/model/component_instance.h>
+	<slapi/model/component_definition.h>
+	<slapi/model/mesh_helper.h>
+	<slapi/geometry.h>
+	<slapi/transformation.h>
+
